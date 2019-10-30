@@ -20,7 +20,7 @@ Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easil
 
 ### 2. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Data-Structure](https://https://github.com/sabith-nadakkavil/Data-Structure) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://https://github.com/sabith-nadakkavil/Data-Structure/).
+You can get your own fork/copy of [Data-Structure](https://github.com/sabith-nadakkavil/Data-Structure) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/sabith-nadakkavil/Data-Structure/).
 
 [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/shivaylamba/Hacktoberfest)
 
@@ -33,7 +33,7 @@ You can take a look to the [Programming Language List](https://en.wikipedia.org/
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing
-by checking our `Help Wanted` issues and creating [pull requests](https://https://github.com/sabith-nadakkavil/Data-Structure/pulls).
+by checking our `Help Wanted` issues and creating [pull requests](https://github.com/sabith-nadakkavil/Data-Structure/pulls).
 
 ### 5. Give this Project a Star :star:
 
@@ -112,7 +112,7 @@ git clone https://github.com/your-username/Data-Structure.git
 
 ###### Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. You’ll have to do this with the git remote add command.
 
-##### // git remote add upstream https://https://github.com/sabith-nadakkavil/Data-Structure.git //
+##### // git remote add upstream https://github.com/sabith-nadakkavil/Data-Structure.git //
 
 ###### In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
 
