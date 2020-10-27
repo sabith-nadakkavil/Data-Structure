@@ -10,9 +10,8 @@ max = len(value) - 1
 #Palindrome check
 val = True
 for i in range(len(value)):
-    for k in range(len(value)):
-        if (value[i] != value[max - i]):
-            val = False
+    if (value[i] != value[max - i]):
+        val = False
 
 #Display the result       
 if (val):
