@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int i, j, k, sum=0, m1[3][3], m2[3][3], m3[3][3];
-    cout << "Enter first matrix element: ";
+    cout << "Enter first matrix elements: ";
     for(i=0; i<3; i++)
     {
         for(j=0; j<3; j++)
@@ -12,7 +12,7 @@ int main()
             cin >> m1[i][j];
           }
     }
-    cout << "Enter second matrix element: ";
+    cout << "Enter second matrix elements: ";
     for(i=0; i<3; i++)
     {
          for(j=0; j<3; j++)
@@ -20,7 +20,7 @@ int main()
             cin >> m2[i][j];
           }
     }
-    cout << "Multiplying the two matrix: ";
+    cout << "Multiplying the two matrices: ";
     for(i=0; i<3; i++ )
     {
         for(j=0; j<3; j++)
